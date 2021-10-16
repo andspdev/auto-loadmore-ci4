@@ -64,7 +64,6 @@
                     </div>
                 `);
 
-
                 const LoadMore    = (limit, start) =>
                 {
                     $.ajax({
@@ -104,7 +103,7 @@
                     });
                 }
 
-                if (loadMore == true)
+                if (loadMore)
                 {
                     loadMore = false;
 

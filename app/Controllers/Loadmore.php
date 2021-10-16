@@ -27,4 +27,4 @@ class Loadmore extends BaseController
 
         return $this->response->setJSON($data);
     }
-
+}

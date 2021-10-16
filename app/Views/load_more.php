@@ -2,6 +2,7 @@
 <html lang="id">
     <head>
         <title>Coba Auto Load More ketika Scroll</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
             body {
                 background: #f9f9f9;

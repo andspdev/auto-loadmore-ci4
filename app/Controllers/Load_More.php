@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 use App\Models\LoadMoreModel;
 
-class Load_More extends BaseController
+class Loadmore extends BaseController
 {
     public function index()
     {

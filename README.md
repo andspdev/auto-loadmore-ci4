@@ -6,4 +6,7 @@ Ubah nama file **env** jadi **.env**. Lalu pastikan dbhost, dbuser, dbpass, dan 
 lalu jalankan ``` php spark serve ``` dan buka dengan url (contoh: http://localhost:8080/load_more)
 
 Dan coba scroll tampilan hingga paling bawah. Dan data akan terload secara otomatis.<br/>
-Data **countries** diambil dari: https://www.html-code-generator.com/mysql/country-name-table
+Data **countries** diambil dari: https://www.html-code-generator.com/mysql/country-name-table<br/><br/>
+
+
+Selengkapnya: https://www.dailyblog.id/2021/10/auto-load-more-data-ketika-halaman.html

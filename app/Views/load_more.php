@@ -68,7 +68,7 @@
                 const LoadMore    = (limit, start) =>
                 {
                     $.ajax({
-                        url: '<?=base_url('/load_more/data')?>',
+                        url: '<?=base_url('/loadmore/data')?>',
                         method: 'POST',
                         data: {startData: start, limitData: limit},
                         success: (data) =>
